@@ -12,10 +12,6 @@ Handy tools for developers.
 - [Notion](https://www.notion.so/): Write, plan, collaborate, and get organized. Notion is all you need — in one tool.
 - [Twist](https://twistapp.com/): Fewer notifications. More meaningful teamwork.
 
-## CMS
-
-- [GraphCMS](https://graphcms.com/): Bring content to any platform.
-
 ## Cron Job
 
 - [crontab guru](https://crontab.guru/): The quick and simple editor for cron schedule expressions.
