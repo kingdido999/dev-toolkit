@@ -1,4 +1,6 @@
-# Dev toolkit
+# Dev Toolkit
+
+Handy tools for developers.
 
 ## Automation
 
