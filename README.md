@@ -34,6 +34,10 @@ Handy tools for developers.
 
 - [Prisma](https://www.prisma.io/): Build a GraphQL server with any database.
 
+## HTTP Client
+
+- [Insomnia](https://insomnia.rest/): Finally, a REST client you'll love.
+
 ## Performance
 
 - [Checkbot](https://www.checkbot.io/): Checkbot for Chrome crawls for broken links, duplicate titles,
