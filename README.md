@@ -43,6 +43,10 @@ Handy tools for developers.
 - [Checkbot](https://www.checkbot.io/): Checkbot for Chrome crawls for broken links, duplicate titles,
 invalid HTML/CSS/JS, redirect chains and more.
 
+## Time Tracking
+
+- [timetrap](https://github.com/samg/timetrap): Simple command line timetracker.
+
 ## UI
 
 ### Illustration
