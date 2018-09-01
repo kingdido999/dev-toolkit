@@ -30,6 +30,10 @@ Handy tools for developers.
 - [Docsify](https://docsify.js.org/): A magical documentation site generator.
 - [docz](https://www.docz.site/): It has never been so easy to document your things!
 
+## Git
+
+- [git-extras](https://github.com/tj/git-extras): GIT utilities -- repo summary, repl, changelog population, author commit percentages and more.
+
 ## GraphQL
 
 - [Prisma](https://www.prisma.io/): Build a GraphQL server with any database.
