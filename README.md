@@ -79,3 +79,4 @@ invalid HTML/CSS/JS, redirect chains and more.
 - [termtosvg](https://github.com/nbedos/termtosvg): Record terminal sessions as SVG animations.
 - [Typed.js](https://mattboldt.com/demos/typed-js/): A JavaScript Typing Animation Library.
 - [Wired Elements](https://wiredjs.com/): A set of common UI elements with a hand-drawn, sketchy look.
+- [Cruip](https://cruip.com/): Free landing page templates for startups.
