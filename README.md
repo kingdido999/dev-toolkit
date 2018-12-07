@@ -42,10 +42,6 @@ Handy tools for developers.
 
 - [Insomnia](https://insomnia.rest/): Finally, a REST client you'll love.
 
-## Note Taking
-
-- [Boostnote](https://boostnote.io/): The intuitive and stylish note taking tool for developers.
-
 ## Performance
 
 - [Checkbot](https://www.checkbot.io/): Checkbot for Chrome crawls for broken links, duplicate titles,
