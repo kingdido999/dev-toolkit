@@ -2,27 +2,10 @@
 
 Handy tools for developers.
 
-## Automation
-
-- [parabola](https://parabola.io/): Drag-and-drop to automate your repetitive tasks. No spreadsheets or coding required.
-- [zapier](https://zapier.com/): Connect Your Apps and Automate Workflows.
-
-## Collaboration
-
-- [Notion](https://www.notion.so/): Write, plan, collaborate, and get organized. Notion is all you need — in one tool.
-- [Twist](https://twistapp.com/): Fewer notifications. More meaningful teamwork.
-
-## Cron Job
-
-- [crontab guru](https://crontab.guru/): The quick and simple editor for cron schedule expressions.
-
 ## Database
 
 - [remoteStorage](https://remotestorage.io/): An open protocol for per-user storage on the Web.
-
-## Deployment
-
-- [Netlify](https://www.netlify.com/): Build, deploy, and manage modern web projects.
+- [Prisma](https://www.prisma.io/): Build a GraphQL server with any database.
 
 ## Documentation
 
@@ -30,26 +13,21 @@ Handy tools for developers.
 - [Docsify](https://docsify.js.org/): A magical documentation site generator.
 - [docz](https://www.docz.site/): It has never been so easy to document your things!
 
-## Git
+## Productivity
 
-- [git-extras](https://github.com/tj/git-extras): GIT utilities -- repo summary, repl, changelog population, author commit percentages and more.
+- [tmux](https://robots.thoughtbot.com/a-tmux-crash-course): A terminal multiplexer.
 
-## GraphQL
+## Text Editor
 
-- [Prisma](https://www.prisma.io/): Build a GraphQL server with any database.
+- [Neovim](https://neovim.io/): literally the future of vim.
 
-## HTTP Client
+## Tools
 
 - [Insomnia](https://insomnia.rest/): Finally, a REST client you'll love.
-
-## Performance
-
-- [Checkbot](https://www.checkbot.io/): Checkbot for Chrome crawls for broken links, duplicate titles,
-invalid HTML/CSS/JS, redirect chains and more.
-
-## Time Tracking
-
 - [timetrap](https://github.com/samg/timetrap): Simple command line timetracker.
+- [git-extras](https://github.com/tj/git-extras): GIT utilities -- repo summary, repl, changelog population, author commit percentages and more.
+- [crontab guru](https://crontab.guru/): The quick and simple editor for cron schedule expressions.
+- [Netlify](https://www.netlify.com/): Build, deploy, and manage modern web projects.
 
 ## UI
 
